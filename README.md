@@ -24,7 +24,7 @@ Custom-order copy follows https://musucus.base.shop/p/00002. Care copy summarize
 
 ## Custom domain
 
-GitHub Pages is the initial host. `musucus.com` is not configured here yet. When DNS access is available, set the custom domain in the repository Pages settings, follow GitHub's current DNS instructions at Onamae, then enable HTTPS. Update canonical, Open Graph and sitemap URLs at the same time. Keep BASE purchase links unchanged.
+The production domain is https://musucus.com/. The CNAME file preserves it on future GitHub Pages builds. Domain registration and DNS are managed through Onamae. Purchases continue on the official BASE shop.
 
 ## Verification
 
